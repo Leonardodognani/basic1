@@ -1,4 +1,4 @@
-# Treino simples HTML
+# 🖋️ Treino simples de HTML 🖋️
 ## Práticas de treino em HTML da Rocketseat
 
 * treino básico usando páginas "linkadas" de HTML;
