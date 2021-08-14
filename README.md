@@ -6,3 +6,6 @@
 * e-mail e telefone como atalhos.
 
 🚀 🚀 🚀
+
+![basic1](https://user-images.githubusercontent.com/82122343/129429893-584b008d-7068-4650-a90c-19a655025be2.png)
+
